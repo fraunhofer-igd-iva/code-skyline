@@ -1,6 +1,7 @@
 # CodeSkylines
 
 This repository maintains the issue list for the VSCode Extension CodeSkylines.
+
 It further contains the images for the README.
 
 ![image of tool](images/screenshot.png)
