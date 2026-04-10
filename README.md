@@ -10,3 +10,7 @@ It further contains the images for the README.
 The extension is available on the VSCode marketplace: <https://marketplace.visualstudio.com/items?itemName=fraunhofer-igd.code-skyline>
 
 For the online demo of the visualization tool check out: <https://codeskyline.iva.igd.fraunhofer.de/>
+
+## License
+
+The images of this repository fall under the CC BY-SA license.
